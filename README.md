@@ -1,16 +1,16 @@
 ### INSTRUCCIONES PARA ENCENDER SERVER TCP Y CLIENTE
 #### PASOS A SEGUIR PARA EJECUTAR SERVIDOR:
 
-<b> 1. Abrir terminal.
-    2. Escribir este comando "python server-TCP.py".
-    3. Dar Enter.
-    4. Se sabra que encendio correctamente el SERVIDOR si se muestra este mensaje en la terminal *"SERVER ENCENDIDO EN PUERTO 5000"*.
+<b> 1. Abrir terminal. </br>
+    2. Escribir este comando "python server-TCP.py". </br>
+    3. Dar Enter. </br>
+    4. Se sabra que encendio correctamente el SERVIDOR si se muestra este mensaje en la terminal *"SERVER ENCENDIDO EN PUERTO 5000"*. </br>
 
 #### PASOS A SEGUIR PARA EJECUTAR CLIENTE:
-<b> 1. Abrir nueva terminal.
-    2. Escribir este comando "python client-TCP.py".
-    3. Dar Enter o Intro.
-    4. Se sabra que encendio correctamente el CLIENTE si se muestra este mensaje en la terminal *"Manda un mensaje: "*.
+<b> 1. Abrir nueva terminal. </br>
+    2. Escribir este comando "python client-TCP.py". </br>
+    3. Dar Enter o Intro. </br>
+    4. Se sabra que encendio correctamente el CLIENTE si se muestra este mensaje en la terminal *"Manda un mensaje: "*. </br>
 
 </br>
 
