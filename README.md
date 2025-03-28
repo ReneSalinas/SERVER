@@ -10,7 +10,7 @@
 <b> 1. Abrir nueva terminal. </br>
     2. Escribir este comando "python client-TCP.py". </br>
     3. Dar Enter o Intro. </br>
-    4. Se sabra que encendio correctamente el CLIENTE si se muestra este mensaje en la terminal *"Manda un mensaje: "*. </br>
+    4. Se sabra que encendio correctamente el CLIENTE si se muestra en la terminal *"Manda un mensaje: "*. </br>
 
 </br>
 
@@ -43,7 +43,7 @@
 #### VALORES Y RESULTADOS DE PRUEBAS MANUALES </br>
 
 ##### CONEXION ESTABLECIDA
-* En terminal del servidor  "python server-TCP.py".
+* En terminal del servidor "python server-TCP.py".
 * En terminal de cliente "python client-TCP.py".
 * Manda un mensaje: hola server.
 * Servidor responde: HOLA SERVER.
